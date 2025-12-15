@@ -1,7 +1,7 @@
-# Phase 1 – Ask
+# Phase 1 - Ask
 
 **Project:** Cyclistic Bike-Share Case Study  
-**Author:** Sara Gavilán - Junior Data Analyst  
+**Author:** Sara Gavilán - Full Stack Developer · Data Analytics · Creativityt  
 **Date:** November 2025
 
 ---
@@ -78,10 +78,10 @@ Each step in the analysis will bring us closer to understanding how to turn simp
 
 ---
 
-# Fase 1 – Ask (Preguntar)
+# Fase 1 - Ask (Preguntar)
 
 **Proyecto:** Cyclistic Bike-Share Case Study  
-**Autora:** Sara Gavilán - Junior Data Analyst  
+**Autora:** Sara Gavilán - Full Stack Developer · Data Analytics · Creativity
 **Fecha:** Noviembre 2025
 
 ---

@@ -1,7 +1,7 @@
 # Phase 3 – Process
 
 **Project:** Cyclistic Bike-Share Case Study  
-**Author:** Sara Gavilán - Junior Data Analyst  
+**Author:** Sara Gavilán - Full Stack Developer · Data Analytics · Creativity  
 **Date:** November 2025
 
 ---
@@ -60,7 +60,7 @@ Due to GitHub file size limitations, only sample raw and cleaned datasets are st
 # Fase 3 – Process
 
 **Proyecto:** Cyclistic Bike-Share Case Study  
-**Autora:** Sara Gavilán - Junior Data Analyst  
+**Autora:** Sara Gavilán - Full Stack Developer · Data Analytics · Creativity
 **Fecha:** Noviembre 2025
 
 ---

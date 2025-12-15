@@ -1,7 +1,7 @@
 # Phase 2 – Prepare
 
 **Project:** Cyclistic Bike-Share Case Study  
-**Author:** Sara Gavilán - Junior Data Analyst  
+**Author:** Sara Gavilán - Full Stack Developer · Data Analytics · Creativity  
 **Date:** November 2025
 
 ---
@@ -70,7 +70,7 @@ So far, no serious problems have been detected. Some columns are still under rev
 # Fase 2 – Prepare
 
 **Proyecto:** Cyclistic Bike-Share Case Study  
-**Autora:** Sara Gavilán - Junior Data Analyst  
+**Autora:** Sara Gavilán - Full Stack Developer · Data Analytics · Creativity
 **Fecha:** Noviembre 2025
 
 ---
