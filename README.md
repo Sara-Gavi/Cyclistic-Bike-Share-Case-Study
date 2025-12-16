@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hero.png" alt="Cyclistic Bike Share hero image" />
+</p>
+
 # 🚴‍♀️ Cyclistic Bike-Share Case Study
 
 **Business-oriented data analysis**
@@ -11,7 +15,7 @@ The marketing team faces a key question:
 
 > **How do annual members and casual riders use the service, and how can we convert casual riders into members?**
 
-This project addresses that question by applying the full data analysis process proposed in the **Google Data Analytics Professional Certificate**.
+This project addresses that question by applying the complete data analysis process proposed in the **Google Data Analytics Professional Certificate**.
 
 ## Business objective
 
@@ -20,23 +24,20 @@ The main objective is to **understand the behavioral differences** between:
 - **Annual members**
 - **Casual riders**
 
-Based on these patterns, the goal is to generate **actionable insights** that help design marketing strategies focused on conversion.
+Based on these patterns, the goal is to generate **actionable insights** that support marketing strategies focused on conversion.
 
 In short:  
-**turn single rides into long-term relationships.**
+**turn occasional rides into long-term habits.**
 
 ## Analysis methodology
 
-This project follows the **six phases of data analysis** proposed by Google:
+This project follows the **six phases of data analysis** defined by Google:
 
-1. Ask – Define the problem and business objective
-2. Prepare – Review data sources and data quality
-3. Process – Clean, transform, and validate the data
-4. Analyze – Identify patterns and usage differences
-5. Share – Communicate results through visualizations
-6. Act – Strategic recommendations based on data
+Ask · Prepare · Process · Analyze · Share · Act
 
 The first four phases are documented in detail in the `/docs` folder.
+
+The **Share** and **Act** phases are represented through the project slides and the landing page.
 
 ## Tools used
 
@@ -66,19 +67,17 @@ These differences explain why a generic marketing strategy is not effective for 
 ## Visualizations and presentation
 
 **Project slides (Share phase):**  
-[View PDF presentation](slides/Two%20Ways%20to%20Use%20the%20Same%20Bike.pdf)
+[View PDF presentation](slides/0506_Share_Act_Case_Study.pdf)
 
-## Project landing page
+## Project landing page (Act phase)
 
-As a complementary communication and marketing exercise, a **simple landing page** was created to present the key findings of the project in an accessible and business-oriented way.
+As part of the **Act** phase, this project includes a simple landing page that simulates the launch of marketing campaigns aimed at converting casual riders into annual members.
 
 https://sara-gavi.github.io/cyclistic-landing-case-study/
 
----
-
 ## Data notes
 
-The `data` folder contains **example datasets only**, created for demonstration and visualization purposes.
+The `data` folder contains **example datasets only**, used for demonstration and visualization purposes.
 
 ## Author
 
@@ -86,9 +85,6 @@ The `data` folder contains **example datasets only**, created for demonstration 
 Full Stack Developer · Data Analytics · Creativity
 
 Project developed as part of the **Google Data Analytics Professional Certificate**.
-
-> _Data tells stories.  
-> This project aims to listen to how users ride… and where to guide the next move._
 
 ---
 
@@ -114,30 +110,27 @@ El objetivo principal es **entender las diferencias de comportamiento** entre:
 - **Miembros anuales**
 - **Usuarios ocasionales**
 
-A partir de estos patrones, se busca generar **insights accionables** que ayuden a diseñar estrategias de marketing orientadas a la conversión.
+A partir de estos patrones, se busca generar **insights accionables** que apoyen estrategias de marketing orientadas a la conversión.
 
 En pocas palabras:  
-**transformar trayectos puntuales en relaciones a largo plazo.**
+**convertir trayectos ocasionales en hábitos a largo plazo.**
 
 ## Metodología de análisis
 
-El proyecto sigue las **seis fases del análisis de datos** propuestas por Google:
+El proyecto sigue las **seis fases del análisis de datos** definidas por Google:
 
-1. Ask – Definición del problema y objetivo de negocio
-2. Prepare – Revisión de fuentes de datos y su calidad
-3. Process – Limpieza, transformación y validación de los datos
-4. Analyze – Identificación de patrones y diferencias de uso
-5. Share – Comunicación de resultados mediante visualizaciones
-6. Act – Recomendaciones estratégicas basadas en los datos
+Ask · Prepare · Process · Analyze · Share · Act
 
 Las cuatro primeras fases están documentadas en detalle en la carpeta `/docs`.
+
+Las fases de **Share** y **Act** se representan a través de las slides del proyecto y la landing page.
 
 ## Herramientas utilizadas
 
 - **Microsoft Excel**: exploración inicial, validación de cálculos y limpieza manual
 - **Google Sheets**: revisión rápida de archivos pequeños
 - **SQL (BigQuery)**: análisis completo del dataset anual
-- **Tableau**: visualización de datos y dashboards
+- **Tableau**: visualización de datos
 - **GitHub**: control de versiones y documentación
 
 ## Resultados clave (resumen)
@@ -160,11 +153,11 @@ Estas diferencias explican por qué una estrategia de marketing genérica no es 
 ## Visualizaciones y presentación
 
 **Slides del proyecto (fase Share):**  
-[Ver presentación en PDF](slides/Two%20Ways%20to%20Use%20the%20Same%20Bike.pdf)
+[Ver presentación en PDF](slides/0506_Share_Act_Case_Study.pdf)
 
-## Landing page del proyecto
+## Landing page del proyecto (fase Act)
 
-Como ejercicio complementario de comunicación y marketing, se ha creado una **landing page sencilla** que presenta los hallazgos clave del proyecto de forma accesible y orientada a negocio.
+Como parte de la fase **Act**, este proyecto incluye una landing page sencilla que simula la puesta en marcha de campañas de marketing dirigidas a convertir a los usuarios ocasionales en miembros anuales.
 
 https://sara-gavi.github.io/cyclistic-landing-case-study/
 
@@ -178,6 +171,3 @@ La carpeta `data` contiene **solo datos de ejemplo**, usados con fines demostrat
 Full Stack Developer · Análisis de Datos · Creatividad
 
 Proyecto realizado como parte del **Google Data Analytics Professional Certificate**.
-
-> _Los datos cuentan historias.  
-> Este proyecto busca escuchar cómo pedalean los usuarios… y hacia dónde dirigir el próximo movimiento._
